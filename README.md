@@ -1,6 +1,8 @@
 # GPS-Conditioning-and-Nonlinear-Least-Squares
 
-The project investigates how GPS works by solving the equations governing satellite-receiver positioning. Key topics include:
+The project investigates how GPS works by solving the equations governing satellite-receiver positioning. 
+
+🤩Key topics include:
 
 - The geometry of satellite signals and their intersections.
 - Challenges in **clock synchronization and signal inaccuracie**s.
